@@ -1,6 +1,6 @@
 Hi, I’m @Janoher.
 
-  I'm interested in the future development of Monero and cryptocurrencies, and am constantly creating new ways to use cryptocurrency seamlessly, privately, and easy.
+  I'm interested in the future development of Monero and cryptocurrencies, and am constantly creating new ways to use cryptocurrencies seamlessly, privately, and easily.
   
   Cyberpunk, because privacy matters.
 
