@@ -4,7 +4,7 @@ Hi, I’m @Janoher.
   
   Cyberpunk, because privacy matters.
 
-  All projects will be open-source, with privacy in mind.
+  All projects will be open-sourced, with privacy in mind.
 
 <!---
 Janoher/Janoher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
